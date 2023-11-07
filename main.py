@@ -1,0 +1,7 @@
+# DOKII BOT v1 2023 by Duki
+
+#SUBPROGRAMS
+
+
+
+#MAIN PROGRAMS
