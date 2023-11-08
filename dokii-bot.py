@@ -45,4 +45,4 @@ async def on_message(message):
         await message.channel.send("**{}**\n{}".format(title, content))
 
 
-client.run("MTE3MDQwMzQ1MTM5MDM5NDQ2Nw.Gw1pi6.JU87lQLRUjrfAW-JRXkpyd27dhe98x2NWruiEk")
+client.run("input token here")
